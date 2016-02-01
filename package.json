@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "main": "index.html",
   "dependencies": {
+    "image-size": "^0.4.0",
+    "lodash": "^4.1.0",
     "mime": "^1.3.4"
   },
   "window": {
-  	"toolbar": false,
-  	"icon":"lens.png"
+    "toolbar": false,
+    "icon": "lens.png"
   }
 }
